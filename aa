@@ -1,0 +1,24 @@
+{
+   "employees": [
+      {
+         "firstname": "Niyaz",
+         "mail": "niyaz3444@gmail.com"
+      },
+      {
+         "firstname": "Mashu",
+         "mail": "mashu123@gmail.com"
+      },
+      {
+         "firstname": "Rahul",
+         "mail": "rahul@gmail.com"
+      },
+      {
+         "firstname": "Azhar",
+         "mail": "azhar0987@gmail.com"
+      },
+      {
+         "firstname": "Aachu",
+         "mail": "aachu@gmail.com"
+      }
+   ]
+}
